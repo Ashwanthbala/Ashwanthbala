@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Python Backend Development,Ansible Automation**
 
-- 🌱 I’m currently learning **Web application Security, API Development**
+- 🌱 I’m currently learning **Web application Security, Container Technology(Docker and Kubernetes)**
 
 - 📝 I regularly write articles on [Linkedin](Linkedin)
 
