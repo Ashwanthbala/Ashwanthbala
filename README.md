@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ashwanth Balaji</h1>
 <h3 align="center">A Passionate Security Researcher from India</h3>
-<img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/06/01/05/09/240_F_601050934_uLh2QCnPSdoK6tdpWqU2CtyaT3De8q9t.jpg">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 - 🔭 I’m currently working on **Python Backend Development,Ansible Automation**
 
